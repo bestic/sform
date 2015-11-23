@@ -1,0 +1,13 @@
+.container {
+  margin-top: 20px; }
+  .container .alert {
+    display: none; }
+  .container .form-group .note {
+    font-size: 12px;
+    color: #777; }
+  .container .jumbotron {
+    padding-top: 5px;
+    padding-bottom: 20px;
+    margin-bottom: 20px; }
+
+/*# sourceMappingURL=form.css.map */

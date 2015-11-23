@@ -1,0 +1,17 @@
+{
+  "name": "form",
+  "version": "0.0.1",
+  "authors": [
+    "Alexander Bestcenny <bestic@gmail.com>"
+  ],
+  "description": "Simple form with validation",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
